@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JetEngine", "JetEngine\JetEngine.vcxproj", "{4EA5FD13-F993-4BDC-93AF-A92C25DAAB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA5FD13-F993-4BDC-93AF-A92C25DAAB14}.Debug|x64.ActiveCfg = Debug|x64
+		{4EA5FD13-F993-4BDC-93AF-A92C25DAAB14}.Debug|x64.Build.0 = Debug|x64
+		{4EA5FD13-F993-4BDC-93AF-A92C25DAAB14}.Debug|x86.ActiveCfg = Debug|Win32
+		{4EA5FD13-F993-4BDC-93AF-A92C25DAAB14}.Debug|x86.Build.0 = Debug|Win32
+		{4EA5FD13-F993-4BDC-93AF-A92C25DAAB14}.Release|x64.ActiveCfg = Release|x64
+		{4EA5FD13-F993-4BDC-93AF-A92C25DAAB14}.Release|x64.Build.0 = Release|x64
+		{4EA5FD13-F993-4BDC-93AF-A92C25DAAB14}.Release|x86.ActiveCfg = Release|Win32
+		{4EA5FD13-F993-4BDC-93AF-A92C25DAAB14}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D27E741B-222D-450E-8A8E-C1EBF3CC58DD}
+	EndGlobalSection
+EndGlobal
